@@ -1,1 +1,1 @@
-Application of Convolutional Neural Network (CNN) using different libraries: TensorFlow, Keras, Pytorch
+Application of Convolutional Neural Network (CNN) using different libraries: TensorFlow, Keras, Pytorch.
